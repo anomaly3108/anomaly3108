@@ -1,8 +1,10 @@
-### Hi there 👋
+
 
 ![MeagerHardtofindAlbertosaurus-size_restricted](https://user-images.githubusercontent.com/46282160/147729378-c322fa47-cc88-42f7-82b0-15b85ecbaeb1.gif)
 
 <!--
+
+### Hi there 👋
 **anomaly3108/anomaly3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
